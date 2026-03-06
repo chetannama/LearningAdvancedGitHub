@@ -1,0 +1,14 @@
+# Default owner for the entire repository
+* @namachetan2794
+
+# Backend / API code
+/src/API/ @namachetan2794
+
+# Infrastructure / Database layer
+/src/Infrastructure/ @namachetan2794
+
+# Configuration files
+appsettings.json @namachetan2794
+
+# CI/CD workflows
+/.github/workflows/ @namachetan2794
