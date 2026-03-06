@@ -1,0 +1,14 @@
+# Default owner for the entire repository
+* @chetan.nama2794
+
+# Backend / API code
+/src/API/ @chetan.nama2794
+
+# Infrastructure / Database layer
+/src/Infrastructure/ @chetan.nama2794
+
+# Configuration files
+appsettings.json @chetan.nama2794
+
+# CI/CD workflows
+/.github/workflows/ @chetan.nama2794
